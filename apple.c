@@ -3,7 +3,7 @@
 void main()
 {
 	printf("Hello my wonderful word\n");
-	printf("Goodbye my gloomy world\n");
+	printf("Goodbye my gloomy and wonderful world\n");
 }
 
 
